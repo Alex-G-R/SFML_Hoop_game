@@ -6,9 +6,6 @@
 #include <Audio.hpp>
 #include <Network.hpp>
 
-void Update(sf::RectangleShape &player);
-void Draw(sf::RenderWindow &window, sf::RectangleShape &player);
-
 
 int main()
 {
